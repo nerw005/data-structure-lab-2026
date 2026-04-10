@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Car_Class/Car_Class.vcxproj" Id="004c56b5-a287-4675-9907-3a02a711699f" />
+  <Project Path="Complex_Class/Complex_Class.vcxproj" Id="dcb56e92-6f3d-44c0-a632-6042f7447f8b" />
+  <Project Path="Lec04_Array_Class/Lec04_Array_Class.vcxproj" Id="9076ca0e-b26d-4252-81a0-e1b90e2a2571" />
+  <Project Path="Polynomial_Class/Polynomial_Class.vcxproj" Id="545aa05a-5fd0-4c5e-8d1d-4756128d43e0" />
+</Solution>

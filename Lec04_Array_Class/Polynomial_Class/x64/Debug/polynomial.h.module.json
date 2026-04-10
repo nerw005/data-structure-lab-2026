@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\Polynomial.h.obj",
+            "outputs": [
+                "C:\\Users\\default.DESKTOP-OA41OO2\\Desktop\\Lec04_Array_Class\\Lec04_Array_Class\\Polynomial_Class\\x64\\Debug\\vc145.pdb",
+                "x64\\Debug\\",
+                "C:\\Users\\default.DESKTOP-OA41OO2\\Desktop\\Lec04_Array_Class\\Lec04_Array_Class\\Polynomial_Class\\x64\\Debug\\Polynomial.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "Polynomial.h",
+                    "source-path": "c:\\users\\default.desktop-oa41oo2\\desktop\\lec04_array_class\\lec04_array_class\\polynomial_class\\polynomial.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
