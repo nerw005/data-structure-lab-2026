@@ -1,0 +1,3 @@
+﻿  find_max.cpp
+C:\Users\default.DESKTOP-OA41OO2\Desktop\데구조 중간대비 연습용\Lec02_Findmax\Lec02_Findmax\find_max.cpp(14,6): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  Lec02_Findmax.vcxproj -> C:\Users\default.DESKTOP-OA41OO2\Desktop\데구조 중간대비 연습용\Lec02_Findmax\x64\Debug\Lec02_Findmax.exe
